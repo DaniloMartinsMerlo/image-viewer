@@ -5,8 +5,8 @@ from PIL import Image
 import io
 
 st.set_page_config(
-    page_title="Streamlit App",
-    page_icon=":shark:",
+    page_title="Image viewer",
+    page_icon=":floppy_disk:",
     layout="wide",
 )
 
